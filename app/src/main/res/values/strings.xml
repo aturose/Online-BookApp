@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BookApp</string>
+    <string name="new_user_register">New User? <b>Register</b></string> <!--make register bold-->
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="please_login">Please Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+
+
+</resources>
